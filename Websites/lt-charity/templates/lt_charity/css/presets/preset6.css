@@ -8,9 +8,6 @@ body,
     background: #f68e13
 }
 
-.sp-preloader>div:after {
-    background: #FFFFFF
-}
 
 #sp-top-bar {
     background: #333333;
@@ -22,7 +19,7 @@ body,
 }
 
 #sp-header {
-    background: #002072
+    background: #ffffff
 }
 
 #sp-menu ul.social-icons a:hover,
@@ -72,7 +69,7 @@ a:active {
 }
 
 .sp-megamenu-parent>li>a {
-    color: #ffffff
+    color: #0081C0
 }
 
 .sp-megamenu-parent>li:hover>a {
@@ -224,7 +221,7 @@ ul.social-icons>li a:hover {
 
 #sp-footer,
 #sp-bottom {
-    background: #002072;
+    background: #0081C0;
     color: #FFFFFF
 }
 
